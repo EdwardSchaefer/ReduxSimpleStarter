@@ -1,5 +1,9 @@
 # ReduxSimpleStarter
 
+### Introduction
+
+This is a completed tutorial of Stephen Grider's React course on Udemy.
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
